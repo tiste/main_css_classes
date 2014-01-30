@@ -1,0 +1,217 @@
+.visible {
+    display: inherit !important;
+}
+
+.pull-left {
+    float: left !important;
+}
+
+.pull-center {
+    margin: auto !important;
+}
+
+.pull-right {
+    float: right !important;
+}
+
+.max-width {
+    width: 100%;
+}
+
+.pos-relative {
+    position: relative;
+}
+
+.pos-absolute {
+    position: absolute;
+}
+
+.pos-fixed {
+    position: fixed;
+}
+
+.text-left {
+    text-align: left;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.text-justify {
+    text-align: justify;
+}
+
+.huge-margin {
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+.huge-padding {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.ptn {
+    padding-top: 0px;
+}
+
+.ptx {
+    padding-top: 3px;
+}
+
+.pts {
+    padding-top: 5px;
+}
+
+.ptm {
+    padding-top: 10px;
+}
+
+.ptl {
+    padding-top: 20px;
+}
+
+.prn {
+    padding-right: 0px;
+}
+
+.prx {
+    padding-right: 3px;
+}
+
+.prs {
+    padding-right: 5px;
+}
+
+.prm {
+    padding-right: 10px;
+}
+
+.prl {
+    padding-right: 20px;
+}
+
+.pbn {
+    padding-bottom: 0px;
+}
+
+.pbx {
+    padding-bottom: 3px;
+}
+
+.pbs {
+    padding-bottom: 5px;
+}
+
+.pbm {
+    padding-bottom: 10px;
+}
+
+.pbl {
+    padding-bottom: 20px;
+}
+
+.pln {
+    padding-left: 0px;
+}
+
+.plx {
+    padding-left: 3px;
+}
+
+.pls {
+    padding-left: 5px;
+}
+
+.plm {
+    padding-left: 10px;
+}
+
+.pll {
+    padding-left: 20px;
+}
+
+.mtn {
+    margin-top: 0px;
+}
+
+.mtx {
+    margin-top: 3px;
+}
+
+.mts {
+    margin-top: 5px;
+}
+
+.mtm {
+    margin-top: 10px;
+}
+
+.mtl {
+    margin-top: 20px;
+}
+
+.mrn {
+    margin-right: 0px;
+}
+
+.mrx {
+    margin-right: 3px;
+}
+
+.mrs {
+    margin-right: 5px;
+}
+
+.mrm {
+    margin-right: 10px;
+}
+
+.mrl {
+    margin-right: 20px;
+}
+
+.mbn {
+    margin-bottom: 0px;
+}
+
+.mbx {
+    margin-bottom: 3px;
+}
+
+.mbs {
+    margin-bottom: 5px;
+}
+
+.mbm {
+    margin-bottom: 10px;
+}
+
+.mbl {
+    margin-bottom: 20px;
+}
+
+.mln {
+    margin-left: 0px;
+}
+
+.mlx {
+    margin-left: 3px;
+}
+
+.mls {
+    margin-left: 5px;
+}
+
+.mlm {
+    margin-left: 10px;
+}
+
+.mll {
+    margin-left: 20px;
+}
