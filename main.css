@@ -2,6 +2,15 @@
     display: inherit !important;
 }
 
+.invisible {
+    visibility: hidden !important;
+}
+
+.undisplayed {
+    display: none !important;
+    visibility: hidden !important;
+}
+
 .pull-left {
     float: left !important;
 }
@@ -24,6 +33,10 @@
 
 .pos-absolute {
     position: absolute;
+}
+
+.pos-inherit {
+    position: inherit;
 }
 
 .pos-fixed {
@@ -56,6 +69,66 @@
     padding-bottom: 70px;
 }
 
+.pvn {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.pvx {
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+.pvs {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.pvm {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.pvl {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.pvxl {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.phn {
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.phx {
+    padding-right: 3px;
+    padding-left: 3px;
+}
+
+.phs {
+    padding-right: 5px;
+    padding-left: 5px;
+}
+
+.phm {
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.phl {
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.phxl {
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
 .ptn {
     padding-top: 0px;
 }
@@ -74,6 +147,10 @@
 
 .ptl {
     padding-top: 20px;
+}
+
+.ptxl {
+    padding-top: 30px;
 }
 
 .prn {
@@ -96,6 +173,10 @@
     padding-right: 20px;
 }
 
+.prxl {
+    padding-right: 30px;
+}
+
 .pbn {
     padding-bottom: 0px;
 }
@@ -114,6 +195,10 @@
 
 .pbl {
     padding-bottom: 20px;
+}
+
+.pbxl {
+    padding-bottom: 30px;
 }
 
 .pln {
@@ -136,6 +221,10 @@
     padding-left: 20px;
 }
 
+.plxl {
+    padding-left: 30px;
+}
+
 .mtn {
     margin-top: 0px;
 }
@@ -154,6 +243,10 @@
 
 .mtl {
     margin-top: 20px;
+}
+
+.mtxl {
+    margin-top: 30px;
 }
 
 .mrn {
@@ -176,6 +269,10 @@
     margin-right: 20px;
 }
 
+.mrxl {
+    margin-right: 30px;
+}
+
 .mbn {
     margin-bottom: 0px;
 }
@@ -196,6 +293,10 @@
     margin-bottom: 20px;
 }
 
+.mbxl {
+    margin-bottom: 30px;
+}
+
 .mln {
     margin-left: 0px;
 }
@@ -214,4 +315,16 @@
 
 .mll {
     margin-left: 20px;
+}
+
+.mlxl {
+    margin-left: 30px;
+}
+
+.li-unstyled {
+    list-style: none;
+}
+
+.li-inline {
+    display: inline-block;
 }
